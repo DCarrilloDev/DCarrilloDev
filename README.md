@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Carrillo</h1>
 <h3 align="center">A multiplatform software developer, passionate about learning new technologies and applying them in real projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dcarrillodev" alt="dcarrillodev" /></a> </p>
-
 - 🔭 I’m currently working on **Administrative panel for a rental car platform using Next.js**
 
 - 🌱 I’m currently learning **Korean language to broaden my skill set, and refining my technical expertise through continuous study**
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcarrillodev&show_icons=true&locale=en&layout=compact" alt="dcarrillodev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dcarrillodev&show_icons=true&locale=en" alt="dcarrillodev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dcarrillodev&" alt="dcarrillodev" /></p>
